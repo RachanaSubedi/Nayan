@@ -5,16 +5,20 @@ Eye is one of the most valuable body organs. It’s essential to take good care 
 ![image](https://user-images.githubusercontent.com/70265297/183246560-76f31a4f-7a49-4f25-b33b-d962f5e76ebe.png)
 
 Children keep screen too close to their eyes while using mobile phone. Likewise, they blink for less number of times than normal. This leads to various eye problems like **myopia,** **lazy eye,** **cataract**
+
 ![image](https://user-images.githubusercontent.com/70265297/183246587-3b2712e7-887a-4db7-91e1-2ff4f330d5a6.png)
 
-![image](https://user-images.githubusercontent.com/70265297/183246605-d2ae4eac-54cd-4ac0-a7ec-c6ee06ab0757.png)
+
+![images-17](https://user-images.githubusercontent.com/70265297/183246664-6111f999-c9d9-435e-b72d-17c815eec810.jpeg)
 
 
 
 ## Our Solution
 Our project NAYAN has been precisely build to solve this specific problem. NAYAN is a smartphone inbuild mode. Children can easily install this mode in their smartphone and develop a healthy mobile usage habit. Our project is not just confined to children. Even adults can use this mode as other age groups are also facing this problem. Parents can install this mode in their child’s phone and control their ill usage habit. Our app thoroughly scans the blink rate, distance between eye and screen and various possible diseases. If the blink rate and distance between the eye and the screen are at extreme levels, it will warn the user. In this way, user will be alert about ill usage habit and protects their eye from possible damages.
 
-![Logo](https://user-images.githubusercontent.com/70265297/183246383-41476cdd-5b1a-45df-88e3-34d57de08d66.png)
+![image](https://user-images.githubusercontent.com/70265297/183246690-68511023-3b6c-49b0-9495-13db3dcdd2e5.png)
+
+
 ## How our mode looks like:
 ![Mobile-01](https://user-images.githubusercontent.com/78792620/183123907-43b74287-db7b-4c64-9801-33729d25ecc2.png)
 
