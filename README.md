@@ -36,10 +36,13 @@ copy all of it and paste it in the cmd terminal but make sure you are in the sam
 After the libraries are installed, use python main.py to run the prototype
 Installation video is also shown in the youtube video.
 
-*NOTE*
-When re running the prototype donot install the libraries again
+**NOTE**
+** When re running the prototype donot install the libraries again **
+
 use the code in cmd in the path where there is main.py
+
 CMD CODE TO ACTIVATE THE VIRTUAL ENVIRONMENT :     .\aztecvenv\scripts\activate
+
 CMD CODE TO RUN THE MAIN.PY : python main.py
 
 
