@@ -2,9 +2,7 @@
 ## Problem Statement
 Eye is one of the most valuable body organs. It’s essential to take good care of eye from early age. One of the leading causes of eye damage is ill usage of smart phones. Children are more prone to ill usage of mobile phone devices. They stare at screen form very short distance and continue staring for hours. Glare at screen for a longer time span can further strain the eyes. Children who experience eye fatigue may experience headaches, eye pain, or simply feel fatigued. Similarly, children even forget to blink their eyes. Over use of mobile phone by young children can cause myopia or short sightedness. Focusing on near object for longer period of time causes eye ball to elongate. It also leads to the problem of lazy eye and cataract. It has been one of the global problems affecting around 80 million children. In today's busy world parents often leave their children with mobile phones as they are busy with their work and have less time to take care of them. So, children get more time to be engaged with the phone without their parent’s surveillance.
 
-![](https://user-images.githubusercontent.com/70265297/183246344-9bf8a615-4094-40b8-a070-de13f539b27e.jpg | width=100)
-
-![5](https://user-images.githubusercontent.com/70265297/183246344-9bf8a615-4094-40b8-a070-de13f539b27e.jpg)
+![5](https://user-images.githubusercontent.com/70265297/183246344-9bf8a615-4094-40b8-a070-de13f539b27e.jpg  | width=100)
 Children keep screen too close to their eyes while using mobile phone. Likewise, they blink for less number of times than normal. This leads to various eye problems like **myopia,** **lazy eye,** **cataract**
 ![11](https://user-images.githubusercontent.com/70265297/183246350-203ae64b-b017-489a-bd2a-ae07a9d6d294.jpg)
 ![17](https://user-images.githubusercontent.com/70265297/183246351-4f6b05bf-5171-476e-95c3-4a7028f3a262.JPG)
