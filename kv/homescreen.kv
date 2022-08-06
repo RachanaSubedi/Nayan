@@ -1,0 +1,12 @@
+<HomeScreen>
+    RelativeLayout:
+        Image:
+            source : "assets/Logo.png"
+            size_hint : (0.7,0.7)
+            pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+        ImageButton:
+            source: "assets/Demo.png"
+            size_hint: None, None
+            size: 150,150
+            pos_hint: {'center_x': 0.5, 'center_y': 0.1}
+            on_release: app.go_forward()

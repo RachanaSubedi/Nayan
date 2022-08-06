@@ -1,0 +1,20 @@
+<AboutScreen>
+    RelativeLayout:
+        Image:
+            source : "assets/team.jpg"
+            size_hint : None, None
+            size : 700,700
+            pos_hint: {'center_x': 0.5, 'center_y': 0.45}
+        Label:
+            text : "Developers"
+            size_hint : None, None
+            font_size: 50
+            pos_hint: {'center_x': 0.5, 'center_y': 0.94}
+            color: 0 , 0 , 0 , 1
+            bold : True
+        ImageButton:
+            source: "assets/back.png"
+            size_hint: None, None
+            size: 50,50
+            pos: 50,520
+            on_release: app.go_demo()

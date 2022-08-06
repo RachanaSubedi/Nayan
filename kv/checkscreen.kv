@@ -1,0 +1,86 @@
+<CheckScreen>
+    RelativeLayout:
+ 
+        ImageButton:
+            source: "assets/back.png"
+            size_hint: None, None
+            size: 50,50
+            pos: 20,540
+            on_release: app.go_demo(); root.go_release()
+
+        Image :
+            id : img_camera
+            size_hint: None, None
+            size : 220, 220
+            pos : 20, 280
+        Label:
+            text : "Camera Input"
+            size_hint : None, None
+            font_size: 20
+            color: 0 , 0 , 0 , 1
+            bold : True
+            pos : 60, 210
+
+        Image :
+            id : img_face
+            size_hint: None, None
+            size : 220, 220
+            pos : 260, 280
+        Label:
+            text : "Face Detect"
+            size_hint : None, None
+            font_size: 20
+            color: 0 , 0 , 0 , 1
+            bold : True
+            pos : 320, 210
+
+
+        Image :
+            id : img_left
+
+            size_hint: None, None
+            size : 220, 220
+            pos : 510, 280
+        Label:
+            text : "Left Eye"
+            size_hint : None, None
+            font_size: 20
+            color: 0 , 0 , 0 , 1
+            bold : True
+            pos : 550, 210
+
+        Image :
+            id : img_right
+            size_hint: None, None
+            size : 220, 220
+            pos : 760, 280
+        Label:
+            text : "Right Eye"
+            size_hint : None, None
+            font_size: 20
+            color: 0 , 0 , 0 , 1
+            bold : True
+            pos : 830, 210
+        ImageButton:
+            source : "assets/check_disease.png"
+            size_hint : None, None
+            size: 200,200
+            pos_hint: {'center_x': 0.5, 'center_y': 0.3}
+            on_release : root.check_disease()
+
+        ImageButton:
+            source : "assets/refresh.png"
+            size_hint : None, None
+            size: 40,40
+            pos_hint: {'center_x': 0.63, 'center_y': 0.3}
+            on_release : root.check_disease_refresh()
+
+
+        Label:
+            id: disease_text
+            size_hint : None, None
+            font_size: 40
+            color: 0 , 0 , 0 , 1
+            bold : True
+            pos_hint: {'center_x': 0.5, 'center_y': 0.2}
+

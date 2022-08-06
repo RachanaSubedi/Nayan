@@ -1,0 +1,95 @@
+<MonitorScreen>
+    FloatLayout:
+        ImageButton:
+            source: "assets/back.png"
+            size_hint: None, None
+            size: 50,50
+            pos: 20,540
+            on_release: app.go_demo(); root.go_release()
+
+        Image :
+            id : img_camera
+            size_hint: None, None
+            size : 220, 220
+            pos : 100, 300
+
+        Label:
+            text : "Camera Input"
+            size_hint : None, None
+            font_size: 20
+            color: 0 , 0 , 0 , 1
+            bold : True
+            pos : 180, 250
+        Image :
+            id : img_face
+            size_hint: None, None
+            size : 200, 200
+            pos : 380, 320
+        Label:
+            text : "Face Detect"
+            size_hint : None, None
+            font_size: 20
+            color: 0 , 0 , 0 , 1
+            bold : True
+            pos : 410, 250
+        Image :
+            id : img_left
+            size_hint: None, None
+            size : 150, 100
+            pos : 600, 315
+        Label:
+            text : "Left Eye"
+            size_hint : None, None
+            font_size: 20
+            color: 0 , 0 , 0 , 1
+            bold : True
+            pos : 620, 250
+        Image :
+            id : img_right
+            size_hint: None, None
+            size : 150, 100
+            pos : 820, 315
+        Label:
+            text : "Right Eye"
+            size_hint : None, None
+            font_size: 20
+            color: 0 , 0 , 0 , 1
+            bold : True
+            pos : 850, 250
+
+        Image :
+            id : img_final
+            size_hint: None, None
+            size : 250, 250
+            pos : 100, 30
+        Label:
+            text : "Final Output"
+            size_hint : None, None
+            font_size: 20
+            color: 0 , 0 , 0 , 1
+            bold : True
+            pos : 175, -20
+        Image :
+            id : img_blink
+            size_hint: None, None
+            size : 250, 250
+            pos : 400, 30
+        Label:
+            text : "Blink Rate"
+            size_hint : None, None
+            font_size: 20
+            color: 0 , 0 , 0 , 1
+            bold : True
+            pos : 450, -20
+        Image :
+            id : img_depth
+            size_hint: None, None
+            size : 250, 250
+            pos : 720, 30
+        Label:
+            text : "Distance"
+            size_hint : None, None
+            font_size: 20
+            color: 0 , 0 , 0 , 1
+            bold : True
+            pos : 780, 20

@@ -1,0 +1,25 @@
+#: include kv/homescreen.kv
+#: include kv/demoscreen.kv
+#: include kv/monitorscreen.kv
+#: include kv/aboutscreen.kv
+#: include kv/checkscreen.kv
+
+
+FloatLayout:
+    ScreenManager:
+        id : screenmanager
+        HomeScreen:
+            name : "homescreen"
+            id : homescreen
+        DemoScreen:
+            name : "demoscreen"
+            id : demoscreen
+        AboutScreen:
+            name : "aboutscreen"
+            id : aboutscreen
+        MonitorScreen:
+            name : "monitorscreen"
+            id : monitorscreen
+        CheckScreen:
+            name : "checkscreen"
+            id : checkscreen

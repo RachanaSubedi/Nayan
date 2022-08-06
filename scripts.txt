@@ -1,0 +1,3 @@
+python -m venv aztecvenv
+.\aztecvenv\scripts\activate
+pip install -r requirements.txt

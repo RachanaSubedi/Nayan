@@ -1,0 +1,36 @@
+<DemoScreen>
+    RelativeLayout:
+        ImageButton:
+            source: "assets/back.png"
+            size_hint: None, None
+            size: 50,50
+            pos: 50,520
+            on_release: app.go_backward()
+
+        ImageButton:
+            source: "assets/monitor.png"
+            size_hint: None, None
+            size: 350,350
+            pos_hint: {'center_x': 0.5, 'center_y': 0.6}
+            on_release: app.go_monitor() 
+        ImageButton:
+            source: "assets/check.png"
+            size_hint: None, None
+            size: 150,150
+            pos_hint: {'center_x': 0.5, 'center_y': 0.3}
+            on_release: app.go_check()
+
+        ImageButton:
+            source: "assets/about.png"
+            size_hint: None, None
+            size: 100,50
+            pos: 850,50
+            on_release: app.go_about()
+
+        Label:
+            text : "Nayan"
+            size_hint : None, None
+            font_size: 80
+            pos_hint: {'center_x': 0.5, 'center_y': 0.9}
+            color: 0 , 0 , 0 , 1
+            bold : True
