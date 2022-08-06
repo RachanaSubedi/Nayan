@@ -19,7 +19,7 @@ Our project NAYAN has been precisely build to solve this specific problem. NAYAN
 ![image](https://user-images.githubusercontent.com/70265297/183246690-68511023-3b6c-49b0-9495-13db3dcdd2e5.png)
 
 
-## How our mode looks like:
+## How our final concept mode looks like:
 ![Mobile-01](https://user-images.githubusercontent.com/78792620/183123907-43b74287-db7b-4c64-9801-33729d25ecc2.png)
 
 ## PROTOTYPE LINK:
