@@ -20,31 +20,43 @@ Our project NAYAN has been precisely build to solve this specific problem. NAYAN
 
 
 ## How our final concept mode looks like:
-![Mobile-01](https://user-images.githubusercontent.com/78792620/183123907-43b74287-db7b-4c64-9801-33729d25ecc2.png)
+![image](https://user-images.githubusercontent.com/70265297/183246740-4e135645-6f7f-44ce-a4d1-984ea2425ef6.png)
+
 
 ## PROTOTYPE LINK:
 **https://bit.ly/3BLNPk0**
 To see the demo of our prototype you will have to have python 3 or higher version installed in your computer.Now, you have to download this folder from the Github or the drive link. Then open cmd terminal in path where main.py is present.
+
+**FOR FIRST TIME INSTALLING LIBRARIES**
+
 Now you have to create a virtual environment where all the python libraries will be installed and the required libraries are kept inside the requirements.txt file
 the code for the cmd are kept in scripts.txt
 copy all of it and paste it in the cmd terminal but make sure you are in the same path where main.py is present
 
-After the libraries are installed use python main.py to run the prototype
+After the libraries are installed, use python main.py to run the prototype
+Installation video is also shown in the youtube video.
+
+*NOTE*
+When re running the prototype donot install the libraries again
+use the code in cmd in the path where there is main.py
+CMD CODE TO ACTIVATE THE VIRTUAL ENVIRONMENT :     .\aztecvenv\scripts\activate
+CMD CODE TO RUN THE MAIN.PY : python main.py
 
 
+Here are some of the snapshots of using our prototype
+If the distance between your eye and screen is less than 22 cm, you'll receive warning. Also If the number of blinkings per minute is less than x, you'll receive warning.
 
-If the distance between your eye and screen is less than 22 cm, you'll receive warning.
-**Insert Image here.**
+![image](https://user-images.githubusercontent.com/70265297/183246803-b4956e36-2f0b-4790-9bc5-3f39fca8817c.png)
 
-If the number of blinkings per minute is less than x, you'll receive warning.
-**Insert Image here**
+![image](https://user-images.githubusercontent.com/70265297/183246771-f1ad976e-f127-41ab-8dff-cbe9adc3e272.png)
 
-## View Data
-By pressing the NAYAN mode for few seconds, you can view all the data.
-**Insert Image here**
+![image](https://user-images.githubusercontent.com/70265297/183246821-b7c07672-7a99-45a6-b28e-f60b45d70522.png)
+
+![image](https://user-images.githubusercontent.com/70265297/183246878-c979736d-33bd-4e57-a4c5-d15721dae0f0.png)
+
 
 ## Visual Demo
-**Youtube Link** 
+[**Youtube Link** ](https://www.youtube.com/watch?v=QVtb6jW0fr4)
 
 
 
