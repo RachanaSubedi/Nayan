@@ -5,8 +5,10 @@ Eye is one of the most valuable body organs. It’s essential to take good care 
 ![image](https://user-images.githubusercontent.com/70265297/183246560-76f31a4f-7a49-4f25-b33b-d962f5e76ebe.png)
 
 Children keep screen too close to their eyes while using mobile phone. Likewise, they blink for less number of times than normal. This leads to various eye problems like **myopia,** **lazy eye,** **cataract**
-![11](https://user-images.githubusercontent.com/70265297/183246350-203ae64b-b017-489a-bd2a-ae07a9d6d294.jpg)
-![17](https://user-images.githubusercontent.com/70265297/183246351-4f6b05bf-5171-476e-95c3-4a7028f3a262.JPG)
+![image](https://user-images.githubusercontent.com/70265297/183246587-3b2712e7-887a-4db7-91e1-2ff4f330d5a6.png)
+
+![image](https://user-images.githubusercontent.com/70265297/183246605-d2ae4eac-54cd-4ac0-a7ec-c6ee06ab0757.png)
+
 
 
 ## Our Solution
